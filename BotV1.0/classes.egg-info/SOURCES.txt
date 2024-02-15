@@ -1,0 +1,9 @@
+setup.py
+classes/BancoDeDados.py
+classes/SQLConnector.py
+classes/Torneio.py
+classes/__init__.py
+classes.egg-info/PKG-INFO
+classes.egg-info/SOURCES.txt
+classes.egg-info/dependency_links.txt
+classes.egg-info/top_level.txt
